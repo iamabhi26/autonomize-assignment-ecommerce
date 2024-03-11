@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/autonomize-assignment-ecommerce/static/css/main.4c3bb4e5.css",
+    "main.js": "/autonomize-assignment-ecommerce/static/js/main.e71364e7.js",
+    "static/js/453.2d40735f.chunk.js": "/autonomize-assignment-ecommerce/static/js/453.2d40735f.chunk.js",
+    "index.html": "/autonomize-assignment-ecommerce/index.html",
+    "main.4c3bb4e5.css.map": "/autonomize-assignment-ecommerce/static/css/main.4c3bb4e5.css.map",
+    "main.e71364e7.js.map": "/autonomize-assignment-ecommerce/static/js/main.e71364e7.js.map",
+    "453.2d40735f.chunk.js.map": "/autonomize-assignment-ecommerce/static/js/453.2d40735f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4c3bb4e5.css",
+    "static/js/main.e71364e7.js"
+  ]
+}
