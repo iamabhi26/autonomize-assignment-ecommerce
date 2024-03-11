@@ -1,0 +1,21 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100vw;
+    padding: 30px;
+}
+
+.main-heading {
+    font-family: 'Roboto';
+    font-size: 30px;
+    font-weight: 700;
+    color: #000000;
+}
+
+.products-list-container {
+    list-style-type: none;
+    margin: 0px;
+    flex-wrap: wrap;
+    display: flex;
+}
